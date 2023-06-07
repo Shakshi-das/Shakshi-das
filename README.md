@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Shakshi-das. A student at Sister Nivedita University(SNU).
+- 👋 Hi folks, I’m @Shakshi-das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
 - 👀 I’m interested in competitive coding and projects.
-- 🌱 I’m currently studying computer science and engineering. Has intermediate knowledge in HTML, MYSQL, Python,C, C++ programming.
-- 💞
+- 🌱 I’m currently studying computer science and engineering. I currently have intermediate knowledge in HTML, MYSQL, Python,C, C++ programming.
+- 💞 Aspiring to be a full stack developer and learning on the go. 
 - 📫 Can contact me at my socials:-
-      e-mail: shakshidas900@gmail.com ;
-      instagram: shakshi_raven
+      e-mail: shakshidas900@gmail.com 
+      instagram: @shakshi_raven
 
      [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/i_shakshi_)
 
