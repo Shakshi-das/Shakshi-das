@@ -3,9 +3,9 @@
 - 🌱 I’m currently studying computer science and engineering. I currently have intermediate knowledge in HTML, MYSQL, Python,C, C++ programming.
 - 💞 Aspiring to be a full stack developer and learning on the go. 
 - 📫 Can contact me at my socials:-
-      e-mail: shakshidas900@gmail.com 
+     e-mail: shakshidas900@gmail.com 
       
-   [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==) 
+   [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==) 
      
      [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/i_shakshi_)
 
