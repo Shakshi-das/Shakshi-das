@@ -4,7 +4,6 @@
 - 💞 Aspiring to be a full stack developer and learning on the go. 
 - 📫 Can contact me at my socials:-
       e-mail: shakshidas900@gmail.com 
-      instagram: @shakshi_raven
       
    [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==) 
      
