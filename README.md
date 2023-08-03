@@ -1,5 +1,5 @@
 - 👋 Hi folks, I’m @Shakshi-das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
-- 👀 I’m interested in competitive coding and projects.
+- 👀 I’m interested in competitive coding , open source and projects.
 - 🌱 I’m currently studying computer science and engineering. I currently have intermediate knowledge in HTML, MYSQL, Python,C, C++ programming.
 - 💞 Aspiring to be a full stack developer and learning on the go. 
 - 📫 Can contact me at my socials:-
