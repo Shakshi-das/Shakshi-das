@@ -3,14 +3,13 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
 </p>
 
-<a>
-  <img height="50" src="https://gfycat.com/enchantingoffensiveemu"/>
-</a>
+<img height="50" src="https://tenor.com/en-GB/view/shinobu-kocho-wallpaper-shinobu-gif-25289306"/>
 
 - 👋 I am Shakshi das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
 - 👀 I’m interested in competitive coding , open source and projects.
-- 🌱 I’m currently studying computer science and engineering. I currently have intermediate knowledge in HTML, MYSQL, Python,C, C++ programming.
-- 💞 Aspiring to be a full stack developer and learning on the go. 
+- 🌱 I’m currently studying computer science and engineering.
+- 💞 Aspiring to be a full stack developer and learning on the go.
+  
 - 📫 Can contact me at my socials:-
   
    ✉️e-mail: shakshidas900@gmail.com 
