@@ -32,6 +32,10 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shakshi-das&theme=tokyonight)](https://github.com/Shakshi-das/github-profile-trophy)
 
+<h2>📊 My Stats </h2>
+
+![Shakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakshi-das&show_icons=true&theme=radical)
+
 <h2>📈 My Streak </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shakshi-das)](https://git.io/streak-stats)
