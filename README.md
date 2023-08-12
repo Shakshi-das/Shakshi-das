@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🐞&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
 
 - 👋 Hi folks, I’m @Shakshi-das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
 - 👀 I’m interested in competitive coding , open source and projects.
