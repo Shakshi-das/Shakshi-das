@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
 </p>
 
-<img height="50" src="https://user-images.githubusercontent.com/https://tenor.com/en-GB/view/shinobu-kocho-wallpaper-shinobu-gif-25289306"/>
+<img height="50" src="https://pin.it/3Ho81QY"/>
 
 - 👋 I am Shakshi das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
 - 👀 I’m interested in competitive coding , open source and projects.
