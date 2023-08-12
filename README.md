@@ -44,3 +44,5 @@ You can click the Preview link to take a look at your changes.
 <h2>📈 My Streak </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shakshi-das)](https://git.io/streak-stats)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200&animation=fadeIn)
