@@ -7,7 +7,8 @@
 - 🌱 I’m currently studying computer science and engineering. I currently have intermediate knowledge in HTML, MYSQL, Python,C, C++ programming.
 - 💞 Aspiring to be a full stack developer and learning on the go. 
 - 📫 Can contact me at my socials:-
-     e-mail: shakshidas900@gmail.com 
+  
+   ✉️e-mail: shakshidas900@gmail.com 
       
    [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==) 
      
@@ -25,11 +26,12 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" alt="C" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original.svg" alt="C++" width="45" height="45"/>
 </p>
+<h2>💻Languages I have used</h2>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shakshi-das)](https://github.com/Shakshi-das/github-readme-stats)
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shakshi-das&theme=tokyonight)](https://github.com/Shakshi-das/github-profile-trophy)
 
+<h2>📈 My Streak </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shakshi-das)](https://git.io/streak-stats)
