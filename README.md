@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
 </p>
 
-- 👋 Hi folks, I’m @Shakshi-das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
+- 👋 I am @Shakshi-das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
 - 👀 I’m interested in competitive coding , open source and projects.
 - 🌱 I’m currently studying computer science and engineering. I currently have intermediate knowledge in HTML, MYSQL, Python,C, C++ programming.
 - 💞 Aspiring to be a full stack developer and learning on the go. 
@@ -20,7 +20,11 @@
 Shakshi-das/Shakshi-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<p align="center">
+  
+  ![footer](https://capsule-render.vercel.app/api?section=footer&type=transparent)
+  
+</p>
 <h2> 🚀 &nbsp;Some Tools I Have Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
