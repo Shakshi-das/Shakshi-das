@@ -1,6 +1,6 @@
 <p align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20folks&animation=fadeIn&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
 </p>
 
 - 👋 Hi folks, I’m @Shakshi-das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
