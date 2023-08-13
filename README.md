@@ -1,6 +1,6 @@
 <p align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
 </p>
 
 <a href="https://tenor.com/en-GB/view/shinobu-kocho-wallpaper-shinobu-gif-25289306">
