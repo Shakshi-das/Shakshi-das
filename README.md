@@ -1,6 +1,6 @@
 <p align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
 </p>
 
 <a href="https://tenor.com/en-GB/view/shinobu-kocho-wallpaper-shinobu-gif-25289306">
@@ -20,7 +20,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 <a href="https://twitter.com/i_shakshi_?s=09">
-  <img height="50" src=""/>
+  <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__twitter_-512.png"/>
 </a>
         
 <!---
