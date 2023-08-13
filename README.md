@@ -29,8 +29,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
   
-  ![footer](https://capsule-render.vercel.app/api?section=footer&type=transparent)
-  
+  ![footer](https://capsule-render.vercel.app/api?section=footer&type=cylinder&color=gradient&height=50) 
 </p>
 <h2> 🚀 &nbsp;Some Tools I Have Learned</h2>
 <p align="left">
@@ -70,5 +69,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.s
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shakshi-das&theme=tokyonight)](https://github.com/Shakshi-das/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shakshi-das)](https://git.io/streak-stats)
+
+![Profile visits](https://komarev.com/ghpvc/?username=Shakshi-das&color=blueviolet&style=plastic)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200&animation=fadeIn)
