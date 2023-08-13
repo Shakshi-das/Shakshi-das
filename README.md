@@ -5,7 +5,7 @@
 
 <p align="center">
    <a>
-      <img height="200" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwDyXj5OrGZcJgLSu-FhJlkZ5oBJsx6WtvsN18jv91w&s"/>
+      <img height="200" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwDyXj5OrGZcJgLSu-FhJlkZ5oBJsx6WtvsN18jv91w&s"/>
    </a>
 </p>
 
