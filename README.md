@@ -20,7 +20,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 <a href="https://twitter.com/i_shakshi_?s=09">
-  <img height="50" src="https://images.app.goo.gl/VEJZ98xQAW9Rkn299"/>
+  <img height="50" src="https://www.iconfinder.com/icons/3259404/media_social_twitter_icon.png"/>
 </a>
         
 <!---
