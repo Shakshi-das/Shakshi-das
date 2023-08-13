@@ -3,8 +3,8 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
 </p>
 
-<a>
-  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwDyXj5OrGZcJgLSu-FhJlkZ5oBJsx6WtvsN18jv91w&s"/>
+<a align="center">
+  <img height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwDyXj5OrGZcJgLSu-FhJlkZ5oBJsx6WtvsN18jv91w&s"/>
 </a>
 
 - 👋 I am Shakshi das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
