@@ -72,6 +72,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.s
 
 ![Profile visits](https://komarev.com/ghpvc/?username=Shakshi-das&color=blueviolet&style=plastic)
 
-<h3><i>Thanks for stopping by! </i></h3>
+<b><i>Thanks for stopping by! </i><b>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200&animation=fadeIn)
