@@ -3,8 +3,8 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
 </p>
 
-<a href="https://tenor.com/en-GB/view/shinobu-kocho-wallpaper-shinobu-gif-25289306">
-  <img height="50" src="https://tenor.com/en-GB/view/shinobu-kocho-wallpaper-shinobu-gif-25289306.gif"/>
+<a>
+  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwDyXj5OrGZcJgLSu-FhJlkZ5oBJsx6WtvsN18jv91w&s"/>
 </a>
 
 - 👋 I am Shakshi das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
@@ -16,13 +16,16 @@
   
    ✉️E-mail: shakshidas900@gmail.com 
       
-  <a href="https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==">
+<a href="https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 <a href="https://twitter.com/i_shakshi_?s=09">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__twitter_-512.png"/>
 </a>
-        
+<a href="https://www.linkedin.com/in/shakshi-das-03822a220">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png"/>
+</a>
+
 <!---
 Shakshi-das/Shakshi-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
