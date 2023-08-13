@@ -33,20 +33,18 @@ You can click the Preview link to take a look at your changes.
 <h2> 🚀 &nbsp;Some Tools I Have Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" alt="C" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original.svg" alt="C++" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" alt="c" width="45" height="45"/>
+<img src="" alt="c++" width="45" height="45"/>
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"> 
 </p>
-<h2>💻Languages I have used</h2>
+<h2>📊 My Stats</h2>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shakshi-das)](https://github.com/Shakshi-das/github-readme-stats)
-
-<h2>📊 My Stats </h2>
 
 ![Shakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakshi-das&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shakshi-das&theme=tokyonight)](https://github.com/Shakshi-das/github-profile-trophy)
-
-<h2>📈 My Streak </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shakshi-das)](https://git.io/streak-stats)
 
