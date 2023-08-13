@@ -12,17 +12,15 @@
 - 🌱 I’m currently studying computer science and engineering.
 - 💞 Aspiring to be a full stack developer and learning on the go.
   
-  📫 Connect with me at my socials:-
+<h2> 📫 Connect with me at my socials:-</h2>  
   
-   ✉️e-mail: shakshidas900@gmail.com 
+   ✉️E-mail: shakshidas900@gmail.com 
       
   <a href="https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-     
-     [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/i_shakshi_)
 
-     [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shakshi-das-03822a220/) 
+        
 <!---
 Shakshi-das/Shakshi-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
