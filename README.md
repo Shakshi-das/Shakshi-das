@@ -19,7 +19,9 @@
   <a href="https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-
+<a href="https://twitter.com/i_shakshi_?s=09">
+  <img height="50" src="https://www.iconfinder.com/icons/3244054/media_social_twitter_icon"/>
+</a>
         
 <!---
 Shakshi-das/Shakshi-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
