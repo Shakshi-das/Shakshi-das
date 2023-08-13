@@ -12,11 +12,13 @@
 - 🌱 I’m currently studying computer science and engineering.
 - 💞 Aspiring to be a full stack developer and learning on the go.
   
-- 📫 Can contact me at my socials:-
+  📫 Connect with me at my socials:-
   
    ✉️e-mail: shakshidas900@gmail.com 
       
-   [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==) 
+  <a href="https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
      
      [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/i_shakshi_)
 
@@ -43,7 +45,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" al
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html5" width="45" height="45">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="Css" width="45" height="45">
+<img link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="Css" width="45" height="45">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45">
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45">
 <img
