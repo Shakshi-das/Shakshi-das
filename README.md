@@ -64,11 +64,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="45" height="45">
 </p>
 <h2>📊 My Stats</h2>
-<span>
-  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shakshi-das)](https://github.com/Shakshi-das/github-readme-stats)
 
-![Shakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakshi-das&show_icons=true&theme=radical)
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shakshi-das )](https://github.com/Shakshi-das/github-readme-stats" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="(https://github-readme-stats.vercel.app/api?username=Shakshi-das&show_icons=true&theme=radical)" /></div>
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shakshi-das&theme=tokyonight)](https://github.com/Shakshi-das/github-profile-trophy)
 
