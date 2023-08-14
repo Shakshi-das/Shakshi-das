@@ -3,7 +3,9 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20Folks!🕹&animation=fadeIn&fontSize=90)
 </p>
 
-<img src="https://camo.githubusercontent.com/d62a4bc4d1293389e3d3181fb2f5c30c84b7a3be6c53cc82f3f9c0de559bef19/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7132313747556e664b416d4a6c46636a42582f67697068792e77656270"/>
+<p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FqOGVpNG1mMzZwMm9zYmk5dWhvcmlsanU1NXMxY3dwaWFyZ29zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MRID75F71xGZhNnPFD/giphy-downsized-large.gif"/>
+</p>
 
 - 👋 I am Shakshi das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
 - 👀 I’m interested in competitive coding , open source and projects.
