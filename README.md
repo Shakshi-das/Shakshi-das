@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-   <a>
-      <img height="200" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FqOGVpNG1mMzZwMm9zYmk5dWhvcmlsanU1NXMxY3dwaWFyZ29zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MRID75F71xGZhNnPFD/giphy.gif"/>
-   </a>
+      <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FqOGVpNG1mMzZwMm9zYmk5dWhvcmlsanU1NXMxY3dwaWFyZ29zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MRID75F71xGZhNnPFD/giphy.gif"/>
 </p>
 
 - 👋 I am Shakshi das. An undergrad student at Sister Nivedita University(SNU), Kolkata, West Bengal.
