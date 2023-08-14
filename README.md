@@ -5,7 +5,7 @@
 
 <p align="center">
    <a>
-      <img height="200" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwDyXj5OrGZcJgLSu-FhJlkZ5oBJsx6WtvsN18jv91w&s"/>
+      <img height="200" width="200" src="https://64.media.tumblr.com/31cee71be49b92872ea18a0aed6e401b/1917576e3b988f1b-e3/s540x810/956fe2eaf7360007c1da7f165ac1b0c98f5b2476.gif"/>
    </a>
 </p>
 
@@ -79,4 +79,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.s
 
 <b><i>Thanks for stopping by! </i><b>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100&animation=fadeIn)
