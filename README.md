@@ -76,8 +76,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.s
 
 </span>
 
-[![An image of @shakshidas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shakshidas)](https://holopin.io/@shakshidas)
-
 ![Profile visits](https://komarev.com/ghpvc/?username=Shakshi-das&color=blueviolet&style=plastic)
 
 <b><i>Thanks for stopping by! </i><b>
