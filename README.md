@@ -74,6 +74,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.s
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shakshi-das)](https://git.io/streak-stats)
 
+[![An image of @shakshidas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shakshidas)](https://holopin.io/@shakshidas)
+
 </span>
 
 ![Profile visits](https://komarev.com/ghpvc/?username=Shakshi-das&color=blueviolet&style=plastic)
