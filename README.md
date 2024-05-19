@@ -67,7 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.s
 
 <div style="display: flex; flex-direction: row;">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakshi-das&theme=radical&layout=compact" width=300/>
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Shakshi-das&show_icons=true&theme=radical" width=500 />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Shakshi-das&show_icons=true&theme=radical" width=400 />
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shakshi-das&theme=tokyonight)](https://github.com/Shakshi-das/github-profile-trophy)
