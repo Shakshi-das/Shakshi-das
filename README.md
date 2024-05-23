@@ -14,7 +14,7 @@
   
 <h2> 📫 Connect with me at my socials:-</h2>  
   
-   ✉️E-mail: shakshidas900@gmail.com 
+   ✉️E-mail: shakshidas112@gmail.com 
       
 <a href="https://instagram.com/shakshi_raven?igshid=ZGUzMzM3NWJiOQ==">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
